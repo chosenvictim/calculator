@@ -1,2 +1,2 @@
-calculator
+A Basic calculator
 ==========
